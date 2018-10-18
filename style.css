@@ -1,0 +1,25 @@
+body{
+	background-color: black;
+}
+
+.black-text {
+    color: #000 !important;
+    font-size: -webkit-xxx-large;
+    font-family: 'Assistant', sans-serif;
+}
+
+.card{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+}
+.page-footer{
+	color: black;
+	background-color: white;
+	height: 40px;
+   padding-bottom: 50px;
+   padding-top: 5px; 
+}
+.fab {
+    font-size: -webkit-xxx-large;
+}
